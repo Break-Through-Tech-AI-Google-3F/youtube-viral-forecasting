@@ -78,7 +78,7 @@ Project developed under the mentorship of Google engineers as part of the Google
 
 ## Resources 📚
 * [YouTube Data API documentation](https://developers.google.com/youtube/v3)
-* [Kaggle YouTube Trending Videos Dataset](https://www.kaggle.com/datasets/trending-youtube-videos)
+* [Kaggle YouTube Trending Videos Dataset](https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset)
 * Google Colab notebooks
 * Python library documentation
 
